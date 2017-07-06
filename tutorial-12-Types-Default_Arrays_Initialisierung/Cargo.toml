@@ -1,0 +1,6 @@
+[package]
+name = "tutorial-12-Types-Default_Arrays_Initialisierung"
+version = "0.1.0"
+authors = ["Bastian B <bastian.braeunel@gmx.de>"]
+
+[dependencies]
