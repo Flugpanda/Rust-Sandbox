@@ -1,0 +1,6 @@
+[package]
+name = "tutorial-10-Types-Floating_Point_Numbers"
+version = "0.1.0"
+authors = ["Bastian B <bastian.braeunel@gmx.de>"]
+
+[dependencies]
